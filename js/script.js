@@ -12,7 +12,7 @@ var app = new Vue(
         data: {
             currentElement: 0,
             showNextDeafult: null,
-            interval: 1500,
+            interval: 3000,
             slides: [
                 {
                     image: 'img/01.jpg',
